@@ -29,5 +29,5 @@ By leveraging the AutoTS library, this project demonstrates a simple yet effecti
 
 
 # Sources: 
-https://pypi.org/project/yfinance/
-https://scikit-learn.org/stable/modules/preprocessing.html
+- https://pypi.org/project/yfinance/
+- https://scikit-learn.org/stable/modules/preprocessing.html
